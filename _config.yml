@@ -34,6 +34,7 @@ aux_links:
 theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-language-plugin
 
 search_enabled: true
 
